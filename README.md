@@ -36,6 +36,7 @@ Kaynaklar:
 * https://www.youtube.com/channel/UCQOx4WInCNY47gN203LOlMA
 * https://www.youtube.com/watch?v=MFKgJCI1xRs&list=PL6Ivg2qWalUbQEdBSuz55ZgErwj2fs8Q4
 * https://www.youtube.com/watch?v=SWhYhCpSgz4&list=PLoWKmz9YvOriKisknuVi06avCklifTU44
+* https://github.com/fmrico/ros_to_ros2_talk_examples
 
 Ömer Ali Demir'e ait örnek çalışmalar:
 
