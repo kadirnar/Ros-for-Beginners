@@ -1,4 +1,4 @@
-# Ros-for-Beginners
+# Ros Temelleri
 
 * Ros Temelleri
 * Ros Kurulumları
