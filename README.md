@@ -1,5 +1,12 @@
 # Ros Temelleri
 
+###### ROS Noetic Kurulumu
+
+2.ROS Kurulumu
+2.1 Ubuntu Depolarını Yapılandırma
+Ros yazılımını yüklemek için, ubuntu da bazı izinleri vermemiz gerekiyor. "Other Software" kısmındaki tüm uygulamalara izin vermeniz önemlidir. Aslında bizim için önemli olan, "Canonical Partners" izin vermemiz kafidir. Diğer izinler başka uygulamalar içindir. Bunu yapmamız sebebin, uygulamayı yüklemeye izin vermemizdir.
+
+
 #### Temel Seviye ROS
 * Ros Temelleri
 * Ros Kurulumları
