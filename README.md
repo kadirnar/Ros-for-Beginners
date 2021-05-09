@@ -6,7 +6,7 @@
 2.1 Ubuntu Depolarını Yapılandırma
 Ros yazılımını yüklemek için, ubuntu da bazı izinleri vermemiz gerekiyor. "Other Software" kısmındaki tüm uygulamalara izin vermeniz önemlidir. Aslında bizim için önemli olan, "Canonical Partners" izin vermemiz kafidir. Diğer izinler başka uygulamalar içindir. Bunu yapmamız sebebin, uygulamayı yüklemeye izin vermemizdir.
 
-<img height="200" src="/images/ubuntu.png"/>
+<img height="350" src="/images/ubuntu.png"/>
 
 
 #### Temel Seviye ROS
