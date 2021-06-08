@@ -49,10 +49,6 @@ Kaynaklar:
 
 Ömer Ali Demir'e ait örnek çalışmalar:
 
-* https://github.com/omeralierdemir/otonom_drone
-* https://github.com/omeralierdemir/detectionSquareinSquare (Görüntü işleme)
-* https://github.com/omeralierdemir/SquareDetectionInGreen  (Görüntü işleme)
-* https://github.com/omeralierdemir/ShapeDetector           (Görüntü işleme)
-* https://github.com/omeralierdemir/edgeDetection           (Görüntü işleme)
+* https://github.com/omeralierdemir/otonom_drone            (Ros Eğitim)
 * https://github.com/omeralierdemir/multi_otonom_drone      (Ros Eğitim)
 * https://github.com/omeralierdemir/ros_egitim              (Ros Eğitim)
