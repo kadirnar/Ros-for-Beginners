@@ -1,6 +1,6 @@
 # Ros Temelleri
 
-###### ROS Noetic Kurulumu
+###### ROS Melodic Kurulumu
 
 2.ROS Kurulumu
 2.1 Ubuntu Depolarını Yapılandırma
